@@ -1,0 +1,21 @@
+theme: academic
+title: Marc Rigter
+title_html: "<b>Marc<span class=\"invisible\"> </span> Rigter</b>"
+
+langs: ["en"]
+encoding: UTF-8
+
+# author
+author: Marc Rigter
+email: marcrigter@gmail.com
+shortbio: Marc Rigter is a researcher in artificial intelligence and robotics at the University of Oxford.
+twitter_username: MarcRigter
+linkedin_username: marc-rigter-791157a0
+github_username: marc-rigter
+
+
+#nav_ext_links:
+#  - name: Link 1
+#    url: http://jupiterbroadcasting.com/
+#  - name: Link 2
+#    url: http://wallabag.org/

@@ -1,0 +1,53 @@
+---
+layout: sitemap
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+    <url>
+        <loc>http://localhost:4000/pages/about.md</loc>
+
+
+        <xhtml:link
+                    rel="alternate"
+                    hreflang=""
+                    href="http://localhost:4000/pages/about.md"
+                    />
+
+
+
+        <changefreq>weekly</changefreq>
+
+      </url>
+
+      <url>
+          <loc>http://localhost:4000/pages/publications.md</loc>
+
+
+          <xhtml:link
+                      rel="alternate"
+                      hreflang=""
+                      href="http://localhost:4000/pages/publications.md"
+                      />
+
+
+
+          <changefreq>weekly</changefreq>
+
+        </url>
+
+    <url>
+        <loc>http://localhost:4000/pages/zcv.md</loc>
+
+
+        <xhtml:link
+                    rel="alternate"
+                    hreflang=""
+                    href="http://localhost:4000/pages/zcv.md"
+                    />
+
+
+
+        <changefreq>weekly</changefreq>
+
+      </url>
