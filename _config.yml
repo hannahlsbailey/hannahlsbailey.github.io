@@ -1,17 +1,16 @@
 theme: academic
-title: Marc Rigter
-title_html: "<b>Marc<span class=\"invisible\"> </span> Rigter</b>"
+title: Hannah Bailey
+title_html: "<b>Hannah<span class=\"invisible\"> </span> Bailey</b>"
 
 langs: ["en"]
 encoding: UTF-8
 
 # author
-author: Marc Rigter
-email: marcrigter@gmail.com
-shortbio: Marc Rigter is a researcher in artificial intelligence and robotics at the University of Oxford.
-twitter_username: MarcRigter
-linkedin_username: marc-rigter-791157a0
-github_username: marc-rigter
+author: Hannah Bailey
+email: hannah.bailey@oii.ox.ac.uk
+shortbio: Hannah Bailey is a researcher at the Oxford Internet Institute at the University of Oxford
+twitter_username: Hannah_LSBailey
+github_username: hannahlsbailey
 
 
 #nav_ext_links:
