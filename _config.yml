@@ -20,6 +20,8 @@ linkedin_username: hannah-bailey-918299136
 #  - name: Link 2
 #    url: http://wallabag.org/
 
-name: Newsletter
-url: https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/
+nav_ext_links:
+  - name: Newsletter
+    url: https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/
+
 
