@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Publications
-description: Marc Rigter's publications
+description: Hannah Bailey's publications
 ---
 <br/>
 
-**Rigter, Marc**, Bruno Lacerda and Nick Hawes (2021). [Risk-averse Bayes-adaptive reinforcement learning](https://arxiv.org/abs/2102.05762). *Under review*.
+Marcel Schliebs, **Hannah Bailey**, Jonathan Bright and Phil Howard (2021). [Risk-averse Bayes-adaptive reinforcement learning](https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/127/2021/05/Chinas-Public-Diplomacy-Operations-Dem.Tech-Working-Paper-2021.1-4.pdf). *Under review*.
 
 **Rigter, Marc**, Paul Duckworth, Bruno Lacerda and Nick Hawes (2021). Lexicographic optimisation of conditional value at risk for risk-averse planning in MDPs. *Under review*.
 
