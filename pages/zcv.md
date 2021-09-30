@@ -1,5 +1,5 @@
 ---
 layout: page
 title: CV
-description: Marc Rigter's CV
+description: Hannah Bailey's CV
 ---
