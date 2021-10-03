@@ -26,5 +26,5 @@ Hannah Bailey (2021). [Trump’s Twitter ban obscures the real problem: state-ba
 
 BBR Radio 4 (2021). [China's COVID-19 propaganda campaign](https://www.bbc.co.uk/sounds/play/m000z0c0). *Today Programme*. 25 August. 
 
-Charlie Parker (2021). [China state TV channel CGTN enlists UK student influencers] (https://www.thetimes.co.uk/article/china-state-tv-channel-cgtn-enlists-uk-student-influencers-dw9v5sbnc). *The Times*. 16 June. 
+Charlie Parker (2021). [China state TV channel CGTN enlists UK student influencers](https://www.thetimes.co.uk/article/china-state-tv-channel-cgtn-enlists-uk-student-influencers-dw9v5sbnc). *The Times*. 16 June. 
 
