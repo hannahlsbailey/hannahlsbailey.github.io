@@ -5,7 +5,7 @@ description: Hannah Bailey's publications
 ---
 <br/>
 
-## Select Public Lectures and Invited Talks
+## Selected Public Lectures and Invited Talks
 
 Hannah Bailey (2021) Chinese Computational Propaganda. USC Annenberg Centre. 20 August, Los Angeles, LA (virtual).
 
