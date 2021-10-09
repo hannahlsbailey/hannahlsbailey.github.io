@@ -12,7 +12,7 @@ I am a researcher and DPhil student at the University of Oxford specialising in 
 
 I hold a BSc in Politics and Philosophy from the London School of Economics, as well as two MScs, in Contemporary Chinese Studies, and in the Social Science of the Internet, both from Oxford University. I have also studied Mandarin at Fudan University (Shanghai). My DPhil is generously funded by the Oxford Internet Institute’s Shirley Scholarship.
 
-I hold a BSc in Politics and Philosophy from the London School of Economics, as well as two MScs, in Contemporary Chinese Studies, and in the Social Science of the Internet, both from Oxford University. I have also studied Mandarin at Fudan University (Shanghai). My DPhil is generously funded by the Oxford Internet Institute’s Shirley Scholarship.
+For any academic enquiries, you can contact me by email at *hannah.bailey{at}oii.ox.ac.uk*. For media queries please contact *press{at}oii.ox.ac.uk*.
 
 
 
