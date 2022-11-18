@@ -5,6 +5,9 @@ description: Hannah Bailey's publications
 ---
 <br/>
 
+**Hannah Bailey** (2023). <a href="../docs/hannah_bailey_diplomat_or_aggressor.pdf" target="_blank">Peaceful World Leadership or Nationalist Advocate? How China Uses
+Social Media to Project its Stance on Russia’s Invasion of Ukraine</a>. Case Western Reserve Journal of International Law.
+
 Marcel Schliebs, **Hannah Bailey**, Jonathan Bright and Phil Howard (2021). [China’s Public Diplomacy Operations: Understanding engagement and inauthentic amplication of Chinese diplomats on Facebook and Twitter](https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/127/2021/05/Chinas-Public-Diplomacy-Operations-Dem.Tech-Working-Paper-2021.1-4.pdf). *COMPROP Working Paper Series, 2021.1.*
 
 Marcel Schliebs, **Hannah Bailey**, Jonathan Bright and Phil Howard (2021). [China’s Inauthentic UK Twitter Diplomacy: A Coordinated Network Amplifying PRC Diplomats](https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/127/2021/05/Chinas-Inauthentic-UK-Twitter-Diplomacy-Dem.Tech-Working-Paper-2021.2-2.pdf). *COMPROP Working Paper Series, 2021.2.*
