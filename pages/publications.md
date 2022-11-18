@@ -7,7 +7,7 @@ description: Hannah Bailey's publications
 ## Publications
 
 **Hannah Bailey** (2023). <a href="../docs/hannah_bailey_diplomat_or_aggressor.pdf" target="_blank">Peaceful World Leadership or Nationalist Advocate? How China Uses
-Social Media to Project its Stance on Russia’s Invasion of Ukraine</a>. Case Western Reserve Journal of International Law.
+Social Media to Project its Stance on Russia’s Invasion of Ukraine</a>. *Case Western Reserve Journal of International Law.*
 
 Marcel Schliebs, **Hannah Bailey**, Jonathan Bright and Phil Howard (2021). [China’s Public Diplomacy Operations: Understanding engagement and inauthentic amplication of Chinese diplomats on Facebook and Twitter](https://demtech.oii.ox.ac.uk/wp-content/uploads/sites/127/2021/05/Chinas-Public-Diplomacy-Operations-Dem.Tech-Working-Paper-2021.1-4.pdf). *COMPROP Working Paper Series, 2021.1.*
 
@@ -23,7 +23,7 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 ## Under Review
 
-**Hannah Bailey** and Philip N. Howard. <a href="../docs/demtech_hannahbailey_memo.pdf" target="_blank">“The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022</a>.
+**Hannah Bailey** and Philip N. Howard. <a href="../docs/demtech_hannahbailey_memo.pdf" target="_blank">“The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022"</a>.
 
 ## Working Papers
 
@@ -33,13 +33,13 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 ## Public Engagement
 
-**Hannah Bailey** (2023). <a href="../docs/China’s AI Policy- An NLP Approach to Assessing China’s Priorities and Governance.pdf" target="_blank">China’s State-Sponsored Information Operations</a>. Council on Geostrategy.
+**Hannah Bailey** (2023). <a href="../docs/China’s AI Policy- An NLP Approach to Assessing China’s Priorities and Governance.pdf" target="_blank">China’s State-Sponsored Information Operations</a>. *Council on Geostrategy.*
 
-**Hannah Bailey** (2022). [China Information Operations Newsletter](https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/). Programme on Democracy and Technology.
+**Hannah Bailey** (2022). [China Information Operations Newsletter](https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/). *Programme on Democracy and Technology.*
 
-Martin Thorley, Sam Hogg, **Hannah Bailey**, Meia Nouwens (2022). [China Index: Measuring PRC Influence Around the Globe: The United Kingdom](https://china-index.io/country/United-Kingdom). Doublethink Lab.
+Martin Thorley, Sam Hogg, **Hannah Bailey**, Meia Nouwens (2022). [China Index: Measuring PRC Influence Around the Globe: The United Kingdom](https://china-index.io/country/United-Kingdom). *Doublethink Lab.*
 
-**Hannah Bailey** (2020). [Trump’s Twitter ban obscures the real problem: state-backed manipulation is rampant on social media](https://theconversation.com/trumps-twitter-ban-obscures-the-real-problem-state-backed-manipulation-is-rampant-on-social-media-153136). The Conversation.
+**Hannah Bailey** (2020). [Trump’s Twitter ban obscures the real problem: state-backed manipulation is rampant on social media](https://theconversation.com/trumps-twitter-ban-obscures-the-real-problem-state-backed-manipulation-is-rampant-on-social-media-153136). *The Conversation.*
 
 
 
