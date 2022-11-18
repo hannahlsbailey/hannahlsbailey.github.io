@@ -27,7 +27,7 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 ## Working Papers
 
-**Hannah Bailey**, Hannah Kirk and Philip N. Howard. <a href="../docs/China’s AI Policy- An NLP Approach to Assessing China’s Priorities and Governance.pdf" target="_blank">Using AI to Study China’s AI Policy: What Determines Successful Innovation?</a>.
+**Hannah Bailey**, Hannah Kirk and Philip N. Howard. <a href="../docs/china_ai.pdf" target="_blank">Using AI to Study China’s AI Policy: What Determines Successful Innovation?</a>.
 
 **Hannah Bailey**. Detecting China’s Use of Emotive Frames in Public Diplomacy: A Natural Language Processing Approach.
 
