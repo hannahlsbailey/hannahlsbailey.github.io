@@ -33,7 +33,7 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 ## Public Engagement
 
-**Hannah Bailey** (2023). <a href="../docs/China’s AI Policy- An NLP Approach to Assessing China’s Priorities and Governance.pdf" target="_blank">China’s State-Sponsored Information Operations</a>. *Council on Geostrategy.*
+**Hannah Bailey** (2023). <a href="../docs/council_on_geostrategy_finaldraft.pdf" target="_blank">China’s State-Sponsored Information Operations</a>. *Council on Geostrategy.*
 
 **Hannah Bailey** (2022). [China Information Operations Newsletter](https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/). *Programme on Democracy and Technology.*
 
