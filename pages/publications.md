@@ -33,8 +33,6 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 ## Public Engagement
 
-**Hannah Bailey** (2023). <a href="../docs/council_on_geostrategy_finaldraft.pdf" target="_blank">China’s State-Sponsored Information Operations</a>. *Council on Geostrategy.*
-
 **Hannah Bailey** (2022). [China Information Operations Newsletter](https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/). *Programme on Democracy and Technology.*
 
 Martin Thorley, Sam Hogg, **Hannah Bailey**, Meia Nouwens (2022). [China Index: Measuring PRC Influence Around the Globe: The United Kingdom](https://china-index.io/country/United-Kingdom). *Doublethink Lab.*
