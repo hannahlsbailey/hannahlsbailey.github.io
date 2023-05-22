@@ -7,6 +7,8 @@ description: Hannah Bailey's publications
 
 ## Selected Public Lectures and Invited Talks
 
+(2023) China - Outlook and How the World Responds. Chatham House Chairman’s Circle Residential. Oxford (invited discussant).
+
 (2022) Workshop on Truth and Technology. Harvard Kennedy School. Boston, MA.
 
 (2022) International Law and the New Cold War. Case Western Reserve University School of Law. Cleveland, OH. 

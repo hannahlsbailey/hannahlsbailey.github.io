@@ -4,9 +4,13 @@ title: Publications
 description: Hannah Bailey's publications
 ---
 <br/>
-## Publications
+## Peer Reviewed Publications
 
-**Hannah Bailey** (2023). <a href="../docs/hannah_bailey_diplomat_or_aggressor.pdf" target="_blank">Peaceful World Leadership or Nationalist Advocate? How China Uses Social Media to Project its Stance on Russia’s Invasion of Ukraine</a>. *Case Western Reserve Journal of International Law.*
+**Hannah Bailey** (2023). <a href="../docs/peaceful_world_leadership_bailey_2023.pdf" target="_blank">Peaceful World Leadership or Nationalist Advocate? How China Uses Social Media to Project its Stance on Russia’s Invasion of Ukraine</a>. *Case Western Reserve Journal of International Law* 55.1. pp.321.
+
+## Other Publications
+
+**Hannah Bailey** and Philip N. Howard (2022). <a href="../docs/demtech_instigators_targets.pdf" target="_blank">The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022</a>. *DEMTECH Working Paper Series, 2022.1.*
 
 Marcel Schliebs, **Hannah Bailey**, Jonathan Bright and Phil Howard (2021). <a href="../docs/2021_China's_public_diplomacy.pdf" target="_blank">China’s Public Diplomacy Operations: Understanding engagement and inauthentic amplification of Chinese diplomats on Facebook and Twitter</a>. *COMPROP Working Paper Series, 2021.1.*
 
@@ -18,15 +22,11 @@ Samantha Bradshaw, Ualan Campbell-Smith, Amelie Henle, Antonella Perini, Sivanne
 
 Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Nahema Marchal, Christian Schwieter, Katarina Rebello and Phil Howard (2020). <a href="../docs/Coronavirus-Coverage-by-State-Backed-English-Language-News-Sources.pdf" target="_blank">Coronavirus Coverage by State-Backed English-Language News Sources</a>. *COMPROP Working Paper Series, 2020.*
 
-## Under Review
-
-**Hannah Bailey** and Philip N. Howard. <a href="../docs/demtech_hannahbailey_memo.pdf" target="_blank">The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022</a>.
-
 ## Working Papers
 
 **Hannah Bailey**, Hannah Kirk and Philip N. Howard. Using AI to Study China’s AI Policy: What Determines Successful Innovation?
 
-**Hannah Bailey**. Detecting China’s Use of Emotive Frames in Public Diplomacy: A Natural Language Processing Approach.
+**Hannah Bailey**. Sentiment in Statecraft: A Natural Language Processing Analysis of China's Digital Diplomacy.
 
 ## Public Engagement
 
