@@ -4,11 +4,17 @@ title: Publications
 description: Hannah Bailey's publications
 ---
 <br/>
-## Peer Reviewed Publications
+## Publications
 
 **Hannah Bailey** (2023). <a href="../docs/peaceful_world_leadership_bailey_2023.pdf" target="_blank">Peaceful World Leadership or Nationalist Advocate? How China Uses Social Media to Project its Stance on Russia’s Invasion of Ukraine</a>. *Case Western Reserve Journal of International Law* 55.1. pp.321.
 
-## Other Publications
+## Under Review
+
+**Hannah Bailey**. Sentiment in Statecraft: A Natural Language Processing Analysis of China's Digital Diplomacy.
+
+## Policy Papers
+
+**Hannah Bailey** (2023). <a href="https://www.geostrategy.org.uk/research/discursive-statecraft-chinas-information-operations/" target="_blank">Discursive Statecraft: China’s Information Operations</a>. *Council on Geostrategy, Report No. GPP03.*
 
 **Hannah Bailey** and Philip N. Howard (2022). <a href="../docs/demtech_instigators_targets.pdf" target="_blank">The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022</a>. *DEMTECH Working Paper Series, 2022.1.*
 
@@ -25,8 +31,6 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 ## Working Papers
 
 **Hannah Bailey**, Hannah Kirk and Philip N. Howard. Using AI to Study China’s AI Policy: What Determines Successful Innovation?
-
-**Hannah Bailey**. Sentiment in Statecraft: A Natural Language Processing Analysis of China's Digital Diplomacy.
 
 ## Public Engagement
 
