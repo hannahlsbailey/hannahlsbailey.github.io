@@ -14,7 +14,7 @@ description: Hannah Bailey's publications
 
 ## Policy Papers
 
-**Hannah Bailey** (2023). <a href="https://www.geostrategy.org.uk/research/discursive-statecraft-chinas-information-operations/" target="_blank">Discursive Statecraft: China’s Information Operations</a>. *Council on Geostrategy, Report No. GPP03.*
+**Hannah Bailey** (2023). <a href="../docs/hannah_bailey_council_on_geostrategy.pdf" target="_blank">Discursive statecraft: China's information operations</a>. *Council on Geostrategy, Geopolitics Programme Primer, No. GPP03.*
 
 **Hannah Bailey** and Philip N. Howard (2022). <a href="../docs/demtech_instigators_targets.pdf" target="_blank">The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022</a>. *DEMTECH Working Paper Series, 2022.1.*
 
@@ -30,11 +30,15 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 ## Working Papers
 
-**Hannah Bailey**, Hannah Kirk and Philip N. Howard. Using AI to Study China’s AI Policy: What Determines Successful Innovation?
+**Hannah Bailey**, Hannah Kirk and Philip N. Howard. Quantifying Idea Diffusion in China’s AI Policymaking: A Natural Language Processing Analysis.
+
+**Hannah Bailey**. Visual Communication in Influence Operations: An Unsupervised Machine Learning Approach
+
+**Hannah Bailey** and Philip N. Howard. The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022.
+
+**Hannah Bailey** and Tom Nicholls. Understanding the Diffusion of Novel Information Using Unsupervised Embedding Techniques
 
 ## Public Engagement
-
-**Hannah Bailey** (2023). <a href="../docs/hannah_bailey_council_on_geostrategy.pdf" target="_blank">Discursive statecraft: China's information operations</a>. *Council on Geostrategy, Geopolitics Programme Primer, No. GPP03.*
 
 **Hannah Bailey** (2022). [China Information Operations Newsletter](https://demtech.oii.ox.ac.uk/research/posts/china-information-operations-newsletters/). *Programme on Democracy and Technology.*
 
