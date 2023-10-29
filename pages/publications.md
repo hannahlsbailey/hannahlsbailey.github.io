@@ -34,8 +34,6 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 **Hannah Bailey**. Visual Communication in Influence Operations: An Unsupervised Machine Learning Approach
 
-**Hannah Bailey** and Philip N. Howard. The Instigators and Targets of Organised Social Media Manipulation: Global Index 2022.
-
 **Hannah Bailey** and Tom Nicholls. Understanding the Diffusion of Novel Information Using Unsupervised Embedding Techniques
 
 ## Public Engagement
