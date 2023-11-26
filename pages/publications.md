@@ -10,7 +10,7 @@ description: Hannah Bailey's publications
 
 ## Under Review
 
-**Hannah Bailey**. Sentiment in Statecraft: A Natural Language Processing Analysis of China's Digital Diplomacy.
+**Hannah Bailey**.<a href="../docs/Sentiment_in_Statecraft___Anonymised-8.pdf" target="_blank">Sentiment in Statecraft: A Natural Language Processing Analysis of China's Digital Diplomacy.
 
 ## Policy Papers
 
@@ -32,7 +32,7 @@ Johnathan Bright, Hubert Au, **Hannah Bailey**, Mona Elswah, Marcel Schliebs, Na
 
 **Hannah Bailey**, Hannah Kirk and Philip N. Howard. Quantifying Idea Diffusion in China’s AI Policymaking: A Natural Language Processing Analysis.
 
-**Hannah Bailey**. Visual Communication in Influence Operations: An Unsupervised Machine Learning Approach
+**Hannah Bailey**. <a href="../docs/apsa_image_topic_modelling-1.pdf" target="_blank">Visual Communication in Influence Operations: An Unsupervised Machine Learning Approach.
 
 **Hannah Bailey** and Tom Nicholls. Understanding the Diffusion of Novel Information Using Unsupervised Embedding Techniques
 
